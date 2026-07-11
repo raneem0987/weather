@@ -68,7 +68,7 @@ This project presents an interactive Weather Analytics Dashboard built with Powe
 ## 📸 Dashboard Preview
 
 ![Dashboard](weather.png)
-```
+
 
 ---
 
